@@ -38,13 +38,13 @@ setting up the application.
 ## Project Setup
 Once you have the plan in place for the application you want to build take the following steps:
 
-*Create a new project folder.
-*Create a new GitHub repository.
-*Add your TM as a contributor to the project. (This is only for grading         purposes. We promise we won't steal your code)
-*Please make sure you regularly commit to the repository.
-*In your project directory, create a db.json file and use this data Links to an external site.for your server DB.
-*Run this command to get the backend started: json-server --watch db.json
-*Test your server by visiting this route in the browser: http://localhost:8001/bots
+* Create a new project folder.
+* Create a new GitHub repository.
+* Add your TM as a contributor to the project. (This is only for grading         purposes. We promise we won't steal your code)
+* Please make sure you regularly commit to the repository.
+* In your project directory, create a db.json file and use this data Links to an external site.for your server DB.
+* Run this command to get the backend started: json-server --watch db.json
+* Test your server by visiting this route in the browser: http://localhost:8001/bots
  
 ### Core Deliverables
 As a user, I should be able to:
@@ -136,8 +136,15 @@ To access this project on you local computer, follow the steps below;
 
 * Open your terminal
 * Clone this repository: 
-    - Run <code>git clone (git@github.com:prince475/week -1-code-challenge-flatiron-bank.git)</code>
-
+    - Run <code>git clone (git@github.com:prince475/week -2-code-challenge-bot-battlr.git)</code>
+* cd to the project folder and open the project with your preferred code editor.
+* Open the terminal in your code editor and run:
+    <code>npm i create-react-app</code>
+    <code>npx create-react-app</code>
+    <code>npm install</code>
+    <code>json-server --watch db.json</code>
+    <code>npm start</code>
+* The project will display on your browser.
 
 ### Installations:
 * Open a new terminal and navigate to the directory you would like to clone the project from.
