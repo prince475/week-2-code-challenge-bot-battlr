@@ -1,6 +1,6 @@
 # Phase 2 Week-2 Code Challenge in REACT  
 # The Bot Batlr
-![myimage-alt-tag](./public/project.png)
+![myimage-alt-tag](./public/myimage.png)
 
 ## Table of Content
 1. [Requirements](#requirements)
