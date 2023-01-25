@@ -1,5 +1,5 @@
 import React from "react";
-import BotsPage from "./BotsPage";
+import BotsPage from "../bot/BotsPage";
 
 function App() {
   const [botCollection, setBotCollection] = React.useState([]) 

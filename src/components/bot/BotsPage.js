@@ -22,7 +22,7 @@ function BotsPage({botCollection, setBotCollection, setCheckBotCollection}) {
   const dischargeBot = (bot) => {
     setBotCollection(botCollection.filter((item) => item.id !== bot.id));
     remBot(bot)
-    fetch(`https://api.npoint.io/fc95b7d51ec3b28254bc/bots/${bot.id}`, {
+    fetch(`https://prince475-bot-battlr-db.vercel.app/bots/${bot.id}`, {
       method: "DELETE", 
       headers: {"Content-Type" : "application/json",},
   }, 
